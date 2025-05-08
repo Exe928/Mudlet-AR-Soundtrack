@@ -1,5 +1,5 @@
-##Credit document  
-#All the following tracks created by Kevin Macleod, used under CC 4.0. Small changes (recompression, cuts, etc.) are specified after the track name if there were any:  
+# Credit document  
+## All the following tracks created by Kevin Macleod, used under CC 4.0. Small changes (recompression, cuts, etc.) are specified after the track name if there were any:  
 Ancient Rite  
 Anguish  
 Arid Foothils  
